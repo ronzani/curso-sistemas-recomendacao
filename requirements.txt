@@ -1,0 +1,9 @@
+ipykernel
+pandas~=2.2.0
+scikit-learn
+plotly
+tqdm
+scipy
+rich~=13.7.0
+nbformat
+numpy~=1.26.4
